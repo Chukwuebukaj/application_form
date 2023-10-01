@@ -32,6 +32,7 @@ const AddedQuestionWrapper = styled.div`
   flex-direction: column;
   width: 100%;
   border-bottom: 0.0625rem solid #c4c4c4;
+  padding-bottom: 1rem;
 
   svg {
     width: 1.125rem;
